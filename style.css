@@ -1,0 +1,22 @@
+.premier-paragraphe {
+    color:rgb(8, 3, 87);
+}
+h2{
+    background-color: rgb(9, 248, 117);
+    color: seashell;
+    max-width: 800px;
+    
+}
+.competences {
+    text-transform: uppercase;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(to right,#e09c1e, #195985);
+}
+
+ul{list-style-type: none;
+    
+
+
+}
