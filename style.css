@@ -13,6 +13,9 @@ h2{
 body{
     height: 100vh;
     background-image: linear-gradient(to right,#e09c1e, #195985);
+    font-weight: bold;
+    font-family: 'Comic Neue', cursive;
+
 }
 
 ul{list-style-type: none;
@@ -25,3 +28,5 @@ ul{list-style-type: none;
     color:rgb(8, 3, 87);
 
 }
+
+
