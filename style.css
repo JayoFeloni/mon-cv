@@ -1,14 +1,17 @@
 .premier-paragraphe {
     color:rgb(8, 3, 87);
+    
 }
 h2{
     background-color: rgb(9, 248, 117);
-    color: seashell;
+    color: rgb(8, 3, 87);
     max-width: 800px;
+    
     
 }
 .competences {
     text-transform: uppercase;
+    color:rgb(8, 3, 87);
 }
 body{
     height: 100vh;
@@ -28,5 +31,8 @@ ul{list-style-type: none;
     color:rgb(8, 3, 87);
 
 }
+
+
+
 
 
